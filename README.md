@@ -6,4 +6,4 @@ An example package that tests with [`t`][t].
 
 Currently cue packages aren't exactly supported so we're using [`t`][t] as a submodule.
 
-[t](https://github.com/ipcf/t)
+[t]: https://github.com/ipcf/t
