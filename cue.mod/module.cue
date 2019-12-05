@@ -1,2 +1,2 @@
 module: "github.com/ipcf/foo"
-cue: "v0.0.14"
+cue: "v0.0.15"
